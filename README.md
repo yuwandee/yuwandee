@@ -60,7 +60,7 @@ Java + MySQL based event booking and management system.
 ## 📫 Connect With Me
 
 📧 yuwandee03@gmail.com  
-🔗 [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/yuwandee-rathnayake-386814350/))  
+🔗 [LinkedIn]((https://www.linkedin.com/in/yuwandee-rathnayake-386814350/))  
 💻 [GitHub](https://github.com/yuwandee)
 
 
